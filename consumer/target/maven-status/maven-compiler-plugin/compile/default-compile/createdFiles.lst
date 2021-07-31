@@ -1,0 +1,10 @@
+com\hzvh\utils\HbaseUtil.class
+com\hzvh\utils\PropertyUtil.class
+com\hzvh\coprocessor\CalleeWriteObserver.class
+com\hzvh\utils\HbaseScanUtil.class
+com\hzvh\utils\HbaseFilterUtil.class
+com\hzvh\kafka\HbaseConsumer.class
+com\hzvh\constants\Constant.class
+com\hzvh\utils\PropertiesUtil.class
+com\hzvh\utils\ConnectionInstance.class
+com\hzvh\dao\HbaseDAO.class
